@@ -1,4 +1,4 @@
-# Factor Analysis and K-Means Clustering
+# Factor Analysis and PCA
 
 This repository contains code for conducting Factor Analysis and K-Means Clustering on a dataset related to customer satisfaction with airline services. The code is implemented in Python using various libraries such as pandas, numpy, matplotlib, seaborn, statsmodels, scikit-learn, and factor_analyzer.
 
