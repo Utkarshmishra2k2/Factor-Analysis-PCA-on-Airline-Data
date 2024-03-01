@@ -21,8 +21,7 @@ The code also includes K-Means Clustering to group the data into clusters based 
 # Usage
 To use this code, follow these steps:
 1. Clone the repository to your local machine.
-2. Install the required dependencies listed in the `requirements.txt` file.
-3. Run the provided Jupyter Notebook or Python script to perform Factor Analysis and K-Means Clustering on your dataset.
+2. Run the provided Jupyter Notebook or Python script to perform Factor Analysis and K-Means Clustering on your dataset.
 
 # Conclusion
 Factor Analysis and K-Means Clustering are powerful techniques for extracting insights and identifying patterns in complex datasets. By applying these methods, businesses can gain valuable insights into customer preferences and behavior, enabling them to make data-driven decisions to improve their services and products.
